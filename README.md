@@ -174,4 +174,4 @@ Distributed under the GPL License. See `LICENSE` for more information.
 ## Contact
 
 
-Project Link: [https://github.com/anilsenay/next-e-commerce](https://github.com/dawnsee0823/e-conom-site)
+Project Link: [https://github.com/dawnsee0823/e-conom-site]()
