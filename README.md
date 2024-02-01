@@ -1,10 +1,11 @@
 <br />
 <p align="center">
+  <h3 align="center">E-Commerce Website</h3>
   <a href="https://github.com/anilsenay/next-e-commerce">
     <img src="https://i.ibb.co/ZzG3GtN/index.png" alt="Header photo" >
   </a>
 
-  <h3 align="center">E-Commerce Website</h3>
+  
   
   <h4 align="center">Demo: <a href="https://next-e-commerce-example.vercel.app/">https://next-e-commerce-example.vercel.app/</a></h4>
 
