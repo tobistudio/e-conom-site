@@ -1,5 +1,5 @@
 <br />
-  <h3 align="center">E-Commerce Website</h3>
+  <h2 align="center">E-Commerce Website</h2>
 <p align="center">
   <a href="https://github.com/anilsenay/next-e-commerce">
     <img src="https://i.ibb.co/ZzG3GtN/index.png" alt="Header photo" >
