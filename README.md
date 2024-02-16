@@ -47,7 +47,7 @@ I saw a UI design on Dribbble by [Anton Mikhaltsov](https://dribbble.com/shots/9
 - Firebase functions could be better
 - Home page(News In) cards has no redirects. They are just placeholders.
 
-### Built With
+### Built With following Stack
 
 - [React](https://reactjs.org)
 - [NextJS](https://nextjs.org/)
